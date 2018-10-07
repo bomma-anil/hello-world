@@ -27,9 +27,9 @@ CLASSIFIERS = [
 # calling the setup function
 setup(name='hello-world',
       version='1.0.3',
-      description='A small wrapper around google maps api',
+      description='An basic hello world program',
       long_description=long_description,
-      url='https://github.com/bomma-anil/hello_world.git',
+      url='https://github.com/bomma-anil/hello-world.git',
       author='bomma.anil',
       author_email='bomma.anil@stackaero.com',
       license='MIT',
